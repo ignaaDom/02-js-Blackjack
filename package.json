@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node": "^20.5.0"
+  },
+  "name": "02-js-blackjack",
+  "version": "1.0.0",
+  "description": "Juego de cartas Blackjack",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
